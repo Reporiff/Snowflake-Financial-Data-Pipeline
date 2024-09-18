@@ -12,7 +12,7 @@ This project demonstrates the creation of a data pipeline using AWS EC2, Docker,
 - **Snowpipe**: Automatically ingests data from S3 into the staging layer in Snowflake.
 
 ## Architecture Diagram:
-[Architecture Diagram](https://github.com/Reporiff/Snowflake-Streaming-Data-Pipeline/blob/main/Architecture%20Diagram.png)
+![Architecture Diagram](https://github.com/Reporiff/Snowflake-Streaming-Data-Pipeline/blob/main/Architecture%20Diagram.png)
 
 ## Workflow
 
