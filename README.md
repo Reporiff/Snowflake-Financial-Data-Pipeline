@@ -1,3 +1,5 @@
+# Real-Time Transaction Data Streaming Project
+
 # Project Overview
 
 This project demonstrates the creation of a data pipeline using AWS EC2, Docker, Apache NiFi, Python, and Snowflake. The pipeline simulates transaction data using the **Faker** library and ingests it into Snowflake's data warehouse for processing and analysis. The pipeline also implements **SCD Type 1** and **SCD Type 2** mechanisms to maintain data history in a `transaction_history` table while keeping the most recent data in `transaction_data`.
